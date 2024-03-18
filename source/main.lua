@@ -1,9 +1,5 @@
 import 'libraries/noble/Noble'
-
-import 'utilities/Utilities'
-
 import 'scenes/ExampleScene'
-import 'scenes/ExampleScene2'
 
 Noble.Settings.setup({
 	Difficulty = "Medium"
